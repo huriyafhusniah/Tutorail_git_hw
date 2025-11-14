@@ -1,0 +1,4 @@
+Nama Lengkap: Huriya Fajriati Husniah
+
+Alasan belajar Git:
+Alasan utama belajar Git adalah karena ini salah satu materi yang diajarkan dalam bootcamp Data Science. Oleh karena itu, mau tidak mau saya harus mempelajari dan memahaminya. Alasan kedua karena Git menjadi sebuah tempat untuk menunjukkan karya dan proyek pribadi. Proyek di GitHub bisa menjadi portofolio yang menunjukkan kemampuan seseorang. Banyak perusahaan teknologi memeriksa GitHub kandidat sebelum merekrut. Terakhir, Git memungkinkan menyimpan versi berbeda dari kode atau dokumen, sehingga apabila terjadi kesalahan, kita bisa kembali ke versi sebelumnya tanpa kehilangan pekerjaan.
